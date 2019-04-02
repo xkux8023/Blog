@@ -2,4 +2,4 @@
 My Blog
 
 
-1.MongoDB的基本操作演示：https://github.com/xkux8023/Blog/projects/1#card-19673932
+1.MongoDB的基本操作演示：https://github.com/xkux8023/Blog/issues/1#issue-427986495
